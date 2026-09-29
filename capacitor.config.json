@@ -1,0 +1,7 @@
+{
+  "appId":"com.gymbro.app",
+  "appName":"GYMBRO",
+  "webDir":"www",
+  "bundledWebRuntime":false,
+  "server":{"androidScheme":"https"}
+}
